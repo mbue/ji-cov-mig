@@ -15,7 +15,7 @@ Authors of the research article:<br>
 Marvin Bürmann, Jannes Jacobsen, Cornelia Kristen, Simon Kühne and Dorian Tsolak<br>
 <br>
 Link to the published article:<br>
-*will be added*<br>
+<https://www.mdpi.com/2076-0760/11/5/224><br>
 <br>
 <br>
 **\*Information for replication with SOEP release v37:**<br>
